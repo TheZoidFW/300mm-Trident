@@ -1,5 +1,5 @@
 
-![Overview](Images/Overview.png)
+![Overview](IMG/No door.png)
 
 My 300mm trident is a 300x300x250 CoreXY printer primarily featuring components from other projects:
 
