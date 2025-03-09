@@ -14,5 +14,5 @@ My 300mm trident is a 300x300x250 CoreXY printer primarily featuring components 
 
 ## CAD
 
-* CAD drawings for original design elements are included in [CAD/Base/Sapphire.zip](CAD/Base/Sapphire.zip).
+* CAD drawings for original design elements are included in [CAD/Voron_300mm.zip](CAD/Base/Voron_300mm.zip).
 * Monolith and Archetype components can be found in their respective repositories.
