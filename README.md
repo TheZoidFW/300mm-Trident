@@ -4,7 +4,7 @@
 My 300mm trident is a 300x300x250 CoreXY printer primarily featuring components from other projects:
 
 * [Monolith 2wd gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT)
-* [Archetype Mjolnir toolhead](https://github.com/Armchair-Heavy-Industries/Archetype)
+* [Archetype Mjolnir toolhead](https://github.com/Armchair-Heavy-Industries/Archetype/tree/main/Archetype%20-%20Mjolnir)
 * [Voron Trident bed](https://github.com/VoronDesign/Voron-Trident)
 * 4040/2020 frame members
 * Aluminum structural panels
