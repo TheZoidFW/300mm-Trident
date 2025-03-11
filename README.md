@@ -9,6 +9,7 @@ My 300mm trident is a 300x300x250 CoreXY printer primarily featuring components 
 * 4040/2020 frame members
 * Aluminum structural panels
 * [Annex engineering k3 backpack](https://github.com/Annex-Engineering/Gasherbrum-K3)
+* [Clickyclacky_door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)
 * Dual PSUs for mixed 24V and 48V components
 * Dual SSRs for optional chamber heating
 
